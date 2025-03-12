@@ -1,8 +1,6 @@
-## Bienes Raíces - Página Web
-Este es un proyecto de página web para una agencia de bienes raíces. La página ofrece una interfaz intuitiva para navegar por las propiedades disponibles, obtener detalles de cada una y facilitar el contacto con la agencia.
-
+## Bienes Raíces 
 ## Descripción
-Una página web responsive desarrollada para una agencia de bienes raíces. Permite mostrar propiedades en venta o alquiler, con detalles completos sobre cada propiedad, incluyendo fotos, descripción y precio. Los usuarios pueden explorar las propiedades y contactar con la agencia directamente.
+Este es un proyecto de página web para una agencia de bienes raíces. Permite mostrar propiedades en venta o alquiler, con detalles completos sobre cada propiedad, incluyendo fotos, descripción y precio. Los usuarios pueden explorar las propiedades y contactar con la agencia directamente.
 
 ## Características
 - Diseño responsive para adaptarse a diferentes dispositivos (móviles, tabletas y computadoras).
