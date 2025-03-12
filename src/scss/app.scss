@@ -1,0 +1,20 @@
+@forward 'base/normalize';
+@forward 'base/variables';
+@forward 'base/mixins';
+@forward 'base/globales';
+@forward 'base/utilidades';
+@forward 'base/botones';
+@forward 'base/darkMode';
+
+@forward 'layout/header';
+@forward 'layout/navegacion';
+@forward 'layout/footer';
+@forward 'layout/iconos';
+@forward 'layout/anuncios';
+@forward 'layout/contactar';
+@forward 'layout/inferior';
+@forward 'layout/testimoniales';
+@forward 'layout/formulario';
+
+//paginas internas
+@forward 'internas/nosotros';
