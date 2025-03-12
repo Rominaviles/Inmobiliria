@@ -4,6 +4,7 @@
   "description": "Curso Desarrollo Web Completo",
   "main": "gulpfile.js",
   "scripts": {
+    "build": "gulp build",
     "dev": "gulp"
   },
   "license": "ISC",
